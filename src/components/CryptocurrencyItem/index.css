@@ -1,0 +1,22 @@
+.cur-logo {
+  height: 50px;
+}
+tr {
+  color: white;
+  text-align: center;
+}
+.npr {
+  display: flex;
+
+  margin: 0px;
+  padding-left: 30%;
+}
+.nm {
+  margin-left: 10px;
+}
+th {
+  font-size: 30px;
+}
+td {
+  padding: 10px;
+}

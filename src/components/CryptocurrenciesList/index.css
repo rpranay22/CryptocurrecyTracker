@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.currencies {
+}
+table {
+  width: 60vw;
+  border: 5px solid #00e7ff;
+}
+th {
+  background-color: aqua;
+}

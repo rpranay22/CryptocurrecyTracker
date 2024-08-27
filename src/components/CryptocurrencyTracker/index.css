@@ -1,0 +1,13 @@
+.bg-crypto {
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  margin: 0px;
+  color: #00e7ff;
+}
